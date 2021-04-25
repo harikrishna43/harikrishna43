@@ -28,8 +28,8 @@ I have been working in web development since 2011.
 
 [website]: https://harikrsihnaparmar.co.in
 [github]: https://github.com/harikrishna43
-[twitter]: https://twitter.com/leekelleher
-[linkedin]: https://www.linkedin.com/in/leekelleher/
+[twitter]: https://twitter.com/krishparmar43
+[linkedin]: https://www.linkedin.com/in/harikrishna-parmar/
 
 <!--
 **harikrishna43/harikrishna43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
