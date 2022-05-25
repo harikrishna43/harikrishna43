@@ -26,7 +26,7 @@ I have been working in web development since 2011.
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
 
-[website]: https://harikrsihnaparmar.co.in
+[website]: https://harikrishnaparmar.co.in
 [github]: https://github.com/harikrishna43
 [twitter]: https://twitter.com/krishparmar43
 [linkedin]: https://www.linkedin.com/in/harikrishna-parmar/
