@@ -1,6 +1,6 @@
 ### Hi there, I'm [Harikrishna][website] 👋
 
-I have been working in web development since 2011.
+Hands on experience in Umbraco CMS, .NET Core, .NET MVC, Entity framework. I can work on Front-end as well.
 
 ### Connect with me:
 
